@@ -1,3 +1,18 @@
+# MyWeatherApp
+My first react app: **Weathery**
+
+## Steps to use
+- open the website
+- enter city name in searchbox
+- press enter
+
+Voila!!
+
+## Link to react app below 👇👇
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://weathery-react.glitch.me/MyWeatherApp/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
