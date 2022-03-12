@@ -11,6 +11,7 @@ Voila!!
 ## Link to react app below 👇👇
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://weathery-react.glitch.me/MyWeatherApp/)
 
+
 ## Screenshots from the working app
 ![p1](https://user-images.githubusercontent.com/86885168/158033890-1522b3fa-5d2d-498c-9774-f72fec7cb6c0.png)
 ![p2](https://user-images.githubusercontent.com/86885168/158033893-0900c558-6725-4bf5-8076-a563131c0148.png)
