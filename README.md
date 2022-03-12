@@ -12,9 +12,8 @@ Voila!!
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://weathery-react.glitch.me/MyWeatherApp/)
 
 ## Screenshots from the working app
-![p1](https://user-images.githubusercontent.com/86885168/158033680-f8adf261-e864-413a-8e66-7ecf9bd944a1.png)
-![p2](https://user-images.githubusercontent.com/86885168/158033697-ea02ac59-9740-458a-94ee-7e5d01aa1501.png)
-![p3](https://user-images.githubusercontent.com/86885168/158033701-62970577-ed32-4c90-b68b-54f73fcc369b.png)
+![p1](https://user-images.githubusercontent.com/86885168/158033890-1522b3fa-5d2d-498c-9774-f72fec7cb6c0.png)
+![p2](https://user-images.githubusercontent.com/86885168/158033893-0900c558-6725-4bf5-8076-a563131c0148.png)
 
 
 # Getting Started with Create React App
