@@ -1,5 +1,5 @@
-# MyWeatherApp
-My first react app: **Weathery**
+# Weathery
+My first react app which gives you detailed weather conditions and temperature of the city.
 
 ## Steps to use
 - open the website
