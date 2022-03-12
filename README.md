@@ -13,8 +13,9 @@ Voila!!
 
 
 ## Screenshots from the working app
-![p1](https://user-images.githubusercontent.com/86885168/158033890-1522b3fa-5d2d-498c-9774-f72fec7cb6c0.png)
-![p2](https://user-images.githubusercontent.com/86885168/158033893-0900c558-6725-4bf5-8076-a563131c0148.png)
+![p1](https://user-images.githubusercontent.com/86885168/158034131-718d89a9-0635-45cc-b180-84e54d0d91d5.png)
+
+![p2](https://user-images.githubusercontent.com/86885168/158034133-c4bfed03-f149-4b34-9d71-37c2d31103e2.png)
 
 
 # Getting Started with Create React App
